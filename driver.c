@@ -5,5 +5,6 @@ int main() {
     printf("Just trying out GitHub and Git!");
     printf("This is scary");
     printf("Does gpg work now");
+    printf("I think it does!");
     return 0;
 }
